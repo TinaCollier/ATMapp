@@ -9,3 +9,5 @@ When the dropdown menu is selected, I chose to assign the blank choice a state o
 
 ### What I Would Do Differently Next Time
 I enjoyed this activity but I found the program cluttered. I would split the file into two reusable components which would allow for easier use. I struggled with the `submit` button because I wasn't familiar with the `disabled` HTML attribute, but once I researched it, I understood how it is used and how to apply it to my program.
+
+![Alt text](/ATMmachine.png "ATM Machine App Image")
